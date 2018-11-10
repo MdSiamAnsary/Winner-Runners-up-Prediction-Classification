@@ -1,0 +1,121 @@
+YearFrom,YearTo,Club,Country,League,Pld,W,D,L,GF,GA,GD,Points,Outcome
+1992,1993,Manchester United,England ,Premier League,42,24,12,6,67,31,36,84,Winner
+1992,1993,Aston Villa,England ,Premier League,42,21,11,10,57,40,17,74,Runners Up
+1993,1994,Manchester United,England ,Premier League,42,27,11,4,80,38,42,92,Winner
+1993,1994,Blackburn Rovers,England ,Premier League,42,25,9,8,63,36,27,84,Runners Up
+1994,1995,Blackburn Rovers,England ,Premier League,42,27,8,7,80,39,41,89,Winner
+1994,1995,Manchester United,England ,Premier League,42,26,10,6,77,28,49,88,Runners Up
+1995,1996,Manchester United,England ,Premier League,38,25,7,6,73,35,38,82,Winner
+1995,1996,Newcastle United,England ,Premier League,38,24,6,8,66,37,29,78,Runners Up
+1996,1997,Manchester United,England ,Premier League,38,21,12,5,76,44,32,75,Winner
+1996,1997,Newcastle United,England ,Premier League,38,19,11,8,73,40,33,68,Runners Up
+1997,1998,Arsenal,England ,Premier League,38,23,9,6,68,33,35,78,Winner
+1997,1998,Manchester United,England ,Premier League,38,23,8,7,73,26,47,77,Runners Up
+1998,1999,Manchester United,England ,Premier League,38,22,13,3,80,37,43,79,Winner
+1998,1999,Arsenal,England ,Premier League,38,22,12,4,59,17,42,78,Runners Up
+1999,2000,Manchester United,England ,Premier League,38,28,7,3,97,45,52,91,Winner
+1999,2000,Arsenal,England ,Premier League,38,22,7,9,73,43,30,73,Runners Up
+2000,2001,Manchester United,England ,Premier League,38,24,8,6,79,31,48,80,Winner
+2000,2001,Arsenal,England ,Premier League,38,20,10,8,63,38,25,70,Runners Up
+2001,2002,Arsenal,England ,Premier League,38,26,9,3,79,36,43,87,Winner
+2001,2002,Liverpool,England ,Premier League,38,24,8,6,67,30,37,80,Runners Up
+2002,2003,Manchester United,England ,Premier League,38,25,8,5,74,34,40,83,Winner
+2002,2003,Arsenal,England ,Premier League,38,23,9,6,85,42,43,78,Runners Up
+2003,2004,Arsenal,England ,Premier League,38,26,12,0,73,26,47,90,Winner
+2003,2004,Chelsea,England ,Premier League,38,24,7,7,67,30,37,79,Runners Up
+2004,2005,Chelsea,England ,Premier League,38,29,8,1,72,15,57,95,Winner
+2004,2005,Arsenal,England ,Premier League,38,25,8,5,87,36,51,83,Runners Up
+2005,2006,Chelsea,England ,Premier League,38,29,4,5,72,22,50,91,Winner
+2005,2006,Manchester United,England ,Premier League,38,25,8,5,72,34,38,83,Runners Up
+2006,2007,Manchester United,England ,Premier League,38,28,5,5,83,27,56,89,Winner
+2006,2007,Chelsea,England ,Premier League,38,24,11,3,64,24,40,83,Runners Up
+2007,2008,Manchester United,England ,Premier League,38,27,6,5,80,22,58,87,Winner
+2007,2008,Chelsea,England ,Premier League,38,25,10,3,65,26,39,85,Runners Up
+2008,2009,Manchester United,England ,Premier League,38,28,6,4,68,24,44,90,Winner
+2008,2009,Liverpool,England ,Premier League,38,25,11,2,77,27,50,86,Runners Up
+2009,2010,Chelsea,England ,Premier League,38,27,5,6,103,32,71,86,Winner
+2009,2010,Manchester United,England ,Premier League,38,27,4,7,86,28,58,85,Runners Up
+2010,2011,Manchester United,England ,Premier League,38,23,11,4,78,37,41,80,Winner
+2010,2011,Chelsea,England ,Premier League,38,21,8,9,69,33,36,71,Runners Up
+2011,2012,Manchester City,England ,Premier League,38,28,5,5,93,29,64,89,Winner
+2011,2012,Manchester United,England ,Premier League,38,28,5,5,89,33,56,89,Runners Up
+2012,2013,Manchester United,England ,Premier League,38,28,5,5,86,43,43,89,Winner
+2012,2013,Manchester City,England ,Premier League,38,23,9,6,66,34,32,78,Runners Up
+2013,2014,Manchester City,England ,Premier League,38,27,5,6,102,37,65,86,Winner
+2013,2014,Liverpool,England ,Premier League,38,26,6,6,101,50,51,84,Runners Up
+2014,2015,Chelsea,England ,Premier League,38,26,9,3,73,32,41,87,Winner
+2014,2015,Manchester City,England ,Premier League,38,24,7,7,83,38,45,79,Runners Up
+2015,2016,Leicester City,England ,Premier League,38,23,12,3,68,36,32,81,Winner
+2015,2016,Arsenal,England ,Premier League,38,20,11,7,65,36,29,71,Runners Up
+2016,2017,Chelsea,England ,Premier League,38,30,3,5,85,33,52,93,Winner
+2016,2017,Tottenham Hotspur,England ,Premier League,38,26,8,4,86,26,60,86,Runners Up
+2002,2003,Lyon,France ,Ligue 1,38,19,11,8,63,41,22,68,Winner
+2002,2003,Monaco ,France ,Ligue 1,38,19,10,9,66,33,33,67,Runners Up
+2003,2004,Lyon,France ,Ligue 1,38,24,7,7,64,26,38,79,Winner
+2003,2004,Paris Saint Germain,France ,Ligue 1,38,22,10,6,50,28,22,76,Runners Up
+2004,2005,Olympique Lyonnais,France ,Ligue 1,38,22,13,3,56,22,34,79,Winner
+2004,2005,Lille OSC,France ,Ligue 1,38,18,13,7,52,29,23,67,Runners Up
+2005,2006,Lyon,France ,Ligue 1,38,25,9,4,73,31,42,84,Winner
+2005,2006,Bordeaux,France ,Ligue 1,38,18,15,5,43,25,18,69,Runners Up
+2006,2007,Lyon,France ,Ligue 1,38,24,9,5,64,27,37,81,Winner
+2006,2007,Marseille,France ,Ligue 1,38,19,7,12,53,38,15,64,Runners Up
+2007,2008,Lyon,France ,Ligue 1,38,24,7,7,74,37,37,79,Winner
+2007,2008,Bordeaux,France ,Ligue 1,38,22,9,7,65,38,27,75,Runners Up
+2008,2009,Bordeaux,France ,Ligue 1,38,24,8,6,64,34,30,80,Winner
+2008,2009,Marseille,France ,Ligue 1,38,22,11,5,67,35,32,77,Runners Up
+2009,2010,Marseille,France ,Ligue 1,38,23,9,6,69,36,33,78,Winner
+2009,2010,Lyon,France ,Ligue 1,38,20,12,6,64,38,26,72,Runners Up
+2010,2011,Lille OSC,France ,Ligue 1,38,21,13,4,68,36,32,76,Winner
+2010,2011,Marseille,France ,Ligue 1,38,18,14,6,62,39,23,68,Runners Up
+2011,2012,Montpellier,France ,Ligue 1,38,25,7,6,68,34,34,82,Winner
+2011,2012,Paris Saint Germain,France ,Ligue 1,38,23,10,5,75,41,34,79,Runners Up
+2012,2013,Paris Saint Germain,France ,Ligue 1,38,25,8,5,69,23,46,83,Winner
+2012,2013,Marseille,France ,Ligue 1,38,21,8,9,42,36,6,71,Runners Up
+2013,2014,Paris Saint Germain,France ,Ligue 1,38,27,8,3,84,23,61,89,Winner
+2013,2014,Monaco ,France ,Ligue 1,38,23,11,4,63,31,32,80,Runners Up
+2014,2015,Paris Saint Germain,France ,Ligue 1,38,24,11,3,83,36,47,83,Winner
+2014,2015,Lyon,France ,Ligue 1,38,22,9,7,72,33,39,75,Runners Up
+2015,2016,Paris Saint Germain,France ,Ligue 1,38,30,6,2,102,19,83,96,Winner
+2015,2016,Lyon,France ,Ligue 1,38,19,8,11,67,43,24,65,Runners Up
+2016,2017,Monaco ,France ,Ligue 1,38,30,5,3,107,31,76,95,Winner
+2016,2017,Paris Saint Germain,France ,Ligue 1,38,27,6,5,83,27,56,87,Runners Up
+1963,1964,1.FC Köln,Germany ,Bundesliga,30,17,11,2,78,40,38,45,Winner
+1963,1964,Duisburg,Germany ,Bundesliga,30,13,13,4,60,36,24,39,Runners Up
+1964,1965,Bremen,Germany ,Bundesliga,30,15,11,4,54,29,25,41,Winner
+1964,1965,1.FC Köln,Germany ,Bundesliga,30,14,10,6,66,45,21,38,Runners Up
+1965,1966,TSV 1860,Germany ,Bundesliga,34,20,10,4,80,40,40,50,Winner
+1965,1966,Dortmund,Germany ,Bundesliga,34,19,9,6,70,36,34,47,Runners Up
+1966,1967,Braunschweig,Germany ,Bundesliga,34,17,9,8,49,27,22,43,Winner
+1966,1967,TSV 1860,Germany ,Bundesliga,34,17,7,10,60,47,13,41,Runners Up
+1967,1968,Nürnberg,Germany ,Bundesliga,34,19,9,6,71,37,34,47,Winner
+1967,1968,Bremen,Germany ,Bundesliga,34,18,8,8,68,51,17,44,Runners Up
+1968,1969,Bayern Munich,Germany ,Bundesliga,34,18,10,6,61,31,30,46,Winner
+1968,1969,Alemannia A.,Germany ,Bundesliga,34,16,6,12,57,51,6,38,Runners Up
+1969,1970,M'gladbach,Germany ,Bundesliga,34,23,5,6,71,29,42,51,Winner
+1969,1970,Bayern Munich,Germany ,Bundesliga,34,21,5,8,88,37,51,47,Runners Up
+1970,1971,M'gladbach,Germany ,Bundesliga,34,20,10,4,77,35,42,50,Winner
+1970,1971,Bayern Munich,Germany ,Bundesliga,34,19,10,5,74,36,38,48,Runners Up
+1971,1972,Bayern Munich,Germany ,Bundesliga,34,24,7,3,101,38,63,55,Winner
+1971,1972,Schalke,Germany ,Bundesliga,34,24,4,6,76,35,41,52,Runners Up
+1972,1973,Bayern Munich,Germany ,Bundesliga,34,25,4,5,93,29,64,54,Winner
+1972,1973,1.FC Köln,Germany ,Bundesliga,34,16,11,7,66,51,15,43,Runners Up
+2007,2008,Real Madrid ,Spain ,La Liga ,38,27,4,7,84,36,48,85,Winner
+2007,2008,Villarreal,Spain ,La Liga ,38,24,5,9,63,40,23,77,Runners Up
+2008,2009,Barcelona,Spain ,La Liga ,38,27,6,5,105,35,70,87,Winner
+2008,2009,Real Madrid ,Spain ,La Liga ,38,25,3,10,83,52,31,78,Runners Up
+2009,2010,Barcelona,Spain ,La Liga ,38,31,6,1,98,24,74,99,Winner
+2009,2010,Real Madrid ,Spain ,La Liga ,38,31,3,4,102,35,67,96,Runners Up
+2010,2011,Barcelona,Spain ,La Liga ,38,30,6,2,95,21,74,96,Winner
+2010,2011,Real Madrid ,Spain ,La Liga ,38,29,5,4,102,33,69,92,Runners Up
+2011,2012,Real Madrid ,Spain ,La Liga ,38,32,4,2,121,32,89,100,Winner
+2011,2012,Barcelona,Spain ,La Liga ,38,28,7,3,114,29,85,91,Runners Up
+2012,2013,Barcelona,Spain ,La Liga ,38,32,4,2,115,40,75,100,Winner
+2012,2013,Real Madrid ,Spain ,La Liga ,38,26,7,5,103,42,61,85,Runners Up
+2013,2014,Club Atlético,Spain ,La Liga ,38,28,6,4,77,26,51,90,Winner
+2013,2014,Barcelona,Spain ,La Liga ,38,27,6,5,100,33,67,87,Runners Up
+2014,2015,Barcelona,Spain ,La Liga ,38,30,4,4,110,21,89,94,Winner
+2014,2015,Real Madrid ,Spain ,La Liga ,38,30,2,6,118,38,80,92,Runners Up
+2015,2016,Barcelona,Spain ,La Liga ,38,29,4,5,112,29,83,91,Winner
+2015,2016,Real Madrid ,Spain ,La Liga ,38,28,6,4,110,34,76,90,Runners Up
+2016,2017,Real Madrid ,Spain ,La Liga ,38,29,6,3,106,41,65,93,Winner
+2016,2017,Barcelona,Spain ,La Liga ,38,28,6,4,116,37,79,90,Runners Up
