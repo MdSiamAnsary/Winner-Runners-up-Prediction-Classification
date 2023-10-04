@@ -1,5 +1,5 @@
 # Project
-Winner Runners up Prediction Classification
+Winner Runners up Prediction Classification - an assignment for the Artificial Intelligence Lab course of BSc CSE degree program at [AUST](https://aust.edu/)
 
 # Used Tools
   - Windows 10 Pro
